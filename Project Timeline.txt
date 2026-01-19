@@ -1,0 +1,91 @@
+09 Jan 2026
+
+Unity project created
+
+Android build target configured
+
+Initial player object and scene setup
+
+
+09–10 Jan 2026
+
+Player movement implementation
+
+Basic mobile input adaptation
+
+Camera configuration for top-down view
+
+
+10 –11 Jan 2026
+
+Initial weapon system implementation (arrow-based)
+
+Projectile spawning and targeting logic
+
+Early auto-targeting behaviour
+
+Multiple rewrites of weapon follow logic
+
+
+12–14 Jan 2026
+
+Continued refactoring of weapon system
+
+Fire cooldown and lock-on timing added
+
+Multiple weapons handling
+
+Weapon firing arc restrictions implemented
+
+Fixed overlapping and positioning issues
+
+
+15–16 Jan 2026
+
+Enemy chase behaviour implemented
+
+Enemy health system
+
+Player health system
+
+Contact-based damage logic
+
+Debugging collision and damage issues
+
+
+17 Jan 2026
+
+World-space health bar UI added
+
+Health bar logic rebuilt after initial issues
+
+UI fill and update behaviour fixed
+
+
+18 Jan 2026
+
+Collectible system implementation
+TargetCollectibleManager added
+
+Register/unregister lifecycle handling
+
+Nearest-target selection logic
+
+Target arrow indicator debugging and cleanup
+
+
+19 Jan 2026
+
+Environment setup started
+
+Forest tileset imported
+
+Tile slicing experiments (16×16 vs 32×32)
+
+Tilemap setup restarted after tooling issues
+
+Ground Tilemap rebuilt
+
+Randomised ground painting implemented
+
+Sorting layer configuration for environment
