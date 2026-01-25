@@ -10,6 +10,9 @@ public class TargetArrowWorld : MonoBehaviour
     [Tooltip("Manager that provides the closest collectible target.")]
     public TargetCollectibleManager targetManager;
 
+    [Tooltip("Visual object to hide/show (child object with SpriteRenderer or UI Image). If null, uses this GameObject.")]
+    public GameObject arrowVisual;
+
     // Inspector: Behaviour
     [Header("Behaviour")]
     [Tooltip("Offset from player where the arrow should appear.")]
@@ -18,7 +21,7 @@ public class TargetArrowWorld : MonoBehaviour
     [Tooltip("Angle offset applied to arrow sprite (set if sprite points up/left by default).")]
     public float spriteAngleOffset = 0f;
 
-    [Tooltip("Hide arrow if no target exists.")]
+    [Tooltip("Hide arrow visual if no target exists.")]
     public bool hideWhenNoTarget = true;
 
     // Unity lifecycle
@@ -31,15 +34,20 @@ public class TargetArrowWorld : MonoBehaviour
             if (p != null) player = p.transform;
         }
 
-        // Auto-find manager if not assigned
+        // Prefer instance if manager uses singleton
         if (targetManager == null)
             targetManager = TargetCollectibleManager.Instance;
+
+        // If no explicit visual was assigned, use this object
+        if (arrowVisual == null)
+            arrowVisual = gameObject;
     }
 
     private void LateUpdate()
     {
         if (player == null) return;
 
+        // Refresh manager reference in case it spawns later
         if (targetManager == null)
             targetManager = TargetCollectibleManager.Instance;
 
@@ -48,21 +56,21 @@ public class TargetArrowWorld : MonoBehaviour
             ? targetManager.GetCurrentTargetTransform(player.position)
             : null;
 
-        // Hide arrow if no target
+        // Position arrow near player (even if hidden, so it is ready immediately)
+        transform.position = player.position + new Vector3(arrowOffset.x, arrowOffset.y, 0f);
+
+        // If no target, set arrow visual state based on the toggle
         if (target == null)
         {
-            if (hideWhenNoTarget && gameObject.activeSelf)
-                gameObject.SetActive(false);
+            if (arrowVisual != null)
+                arrowVisual.SetActive(!hideWhenNoTarget);
 
             return;
         }
 
-        // Ensure arrow is visible once a target exists again
-        if (!gameObject.activeSelf)
-            gameObject.SetActive(true);
-
-        // Position arrow near player
-        transform.position = player.position + new Vector3(arrowOffset.x, arrowOffset.y, 0f);
+        // Ensure arrow visual is visible when target exists
+        if (arrowVisual != null && !arrowVisual.activeSelf)
+            arrowVisual.SetActive(true);
 
         // Rotate arrow toward target
         Vector2 dir = (Vector2)target.position - (Vector2)transform.position;

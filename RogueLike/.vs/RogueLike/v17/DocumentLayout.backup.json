@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\ui\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\healthbarui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\randomgroundpainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\randomgroundpainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\randomgroundpainter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\goblin_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\goblin_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\goblin_pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\enemy_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\enemy_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\enemy_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\collectible_targetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\collectible_targetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\collectible_targetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\collectible_target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\collectible_target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\collectible_target.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\collectible_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\collectible_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\collectible_spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\systems\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\systems\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\systems\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,6 +95,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DynamicJoystick.cs",
+              "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\DynamicJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DynamicJoystick.cs",
+              "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\DynamicJoystick.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DynamicJoystick.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA5wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T03:36:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TargetArrowWorld.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\TargetArrowWorld.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TargetArrowWorld.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HealthBarUI.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\HealthBarUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HealthBarUI.cs",
@@ -111,12 +128,24 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\HealthBarUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:33:28.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:33:28.704Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T02:04:11.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RandomGroundPainter.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\RandomGroundPainter.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\RandomGroundPainter.cs",
@@ -124,12 +153,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\RandomGroundPainter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:28:19.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:28:19.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameManager.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\GameManager.cs",
@@ -137,12 +165,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\GameManager.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:27:59.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:27:59.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Goblin_Pool.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\Goblin_Pool.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Goblin_Pool.cs",
@@ -150,12 +177,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\Goblin_Pool.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:27:42.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:27:42.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Enemy_Spawner.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\Enemy_Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Enemy_Spawner.cs",
@@ -163,12 +189,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\Enemy_Spawner.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:27:12.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:27:12.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Collectible_TargetManager.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\Collectible_TargetManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Collectible_TargetManager.cs",
@@ -176,12 +201,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\Collectible_TargetManager.cs",
               "ViewState": "AgIAADYAAAAAAAAAAAAowGIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:24:49.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:24:49.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Collectible_Target.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\Collectible_Target.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Collectible_Target.cs",
@@ -189,12 +213,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\Collectible_Target.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAowDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:24:16.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:24:16.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Collectible_Spawner.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\Collectible_Spawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\Collectible_Spawner.cs",
@@ -202,12 +225,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\Collectible_Spawner.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAowEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:23:44.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:23:44.884Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CameraFollow2D.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Systems\\CameraFollow2D.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Systems\\CameraFollow2D.cs",
@@ -215,25 +237,11 @@
               "RelativeToolTip": "Assets\\Scripts\\Systems\\CameraFollow2D.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T03:23:00.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T03:23:00.79Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GameOverUI.cs",
-              "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\GameOverUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
-              "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\GameOverUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T02:04:11.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EnemyLife.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Enemies\\EnemyLife.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyLife.cs",
@@ -245,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
@@ -257,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Player\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
@@ -269,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ContactDamage.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Enemies\\ContactDamage.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\ContactDamage.cs",
@@ -281,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "GoblinChase.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Enemies\\GoblinChase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\GoblinChase.cs",
@@ -293,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WeaponManager.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Combat\\WeaponManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\WeaponManager.cs",
@@ -305,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ArrowWeapon.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Combat\\ArrowWeapon.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Combat\\ArrowWeapon.cs",
@@ -317,14 +325,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "PlayerDeathHandler.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T01:03:54.204Z"
+              "WhenOpened": "2026-01-25T01:03:54.204Z",
+              "EditorCaption": ""
             }
           ]
         }
