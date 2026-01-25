@@ -1,0 +1,8 @@
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
+Assets/_Recovery
+Assets/Tests/
+Assets/DevOnly/
