@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\targetarrowworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|e:\\desktop\\github\\roguelike_survival\\roguelike\\assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\dynamicjoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FB85AE3-D086-CBEB-FEEA-B363B0289BC7}|Assembly-CSharp.csproj|E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,30 +90,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DynamicJoystick.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\DynamicJoystick.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DynamicJoystick.cs",
               "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\DynamicJoystick.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\DynamicJoystick.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA5wFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T03:36:32.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TargetArrowWorld.cs",
               "DocumentMoniker": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\TargetArrowWorld.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\TargetArrowWorld.cs",
               "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\UI\\TargetArrowWorld.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\TargetArrowWorld.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-25T03:33:47.095Z",
               "EditorCaption": ""
@@ -140,8 +140,7 @@
               "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T02:04:11.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T02:04:11.301Z"
             },
             {
               "$type": "Document",
@@ -332,8 +331,7 @@
               "ToolTip": "E:\\Desktop\\GitHub\\RogueLike_Survival\\RogueLike\\Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerDeathHandler.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-25T01:03:54.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-25T01:03:54.204Z"
             }
           ]
         }
